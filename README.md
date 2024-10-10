@@ -36,7 +36,7 @@ In conclusion, they're all very valid problems, but can ultimately be fixed with
 
 # Easter Eggs
 
-I have alwatys been an easter egg guy. Nothing more exciting than finding little secrets in any sort of software! That's why I have added many easter eggs in this bot and there are still more to come! If you want to find them, try not to read the code; as it will spoil them all :)
+I have always been an easter egg guy. Nothing more exciting than finding little secrets in any sort of software! That's why I have added many easter eggs in this bot and there are still more to come! If you want to find them, try not to read the code; as it will spoil them all :)
 
 # Future Plans
 
@@ -54,4 +54,4 @@ I have alwatys been an easter egg guy. Nothing more exciting than finding little
 7) Run the code wherever you want. I suggest using **VSCode** for pc, and **Termux** for android. Whichever you choose, you will have to `pip install` all the imported libraries at the top of the code.
 8) Enjoy :) You won't need to post the bot 24/7; you can simply run it when you need it and stop it when you're done.
 
-I hope this helps at least one person out there. 
+## And finally, I hope this helps at least one person out there. 
