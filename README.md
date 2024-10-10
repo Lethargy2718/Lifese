@@ -53,6 +53,6 @@ I have always been an easter egg guy. Nothing more exciting than finding little 
 5) Under **OAuth2**, enable **Bot**, **Send Messages**, and **Send Messages in Threads**.
 6) Using the link at the bottom of the page, invite the bot to a server you're in.
 7) Run the code wherever you want. I suggest using **VSCode** for pc, and **Termux** for android. Whichever you choose, you will have to `pip install` all the imported libraries at the top of the code.
-8) Enjoy :) You won't need to post the bot 24/7; you can simply run it when you need it and stop it when you're done.
+8) Enjoy :) You won't need to host the bot 24/7; you can simply run it when you need it and stop it when you're done.
 
 **And finally, I hope this helps at least one person out there.**
