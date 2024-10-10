@@ -49,10 +49,11 @@ I have always been an easter egg guy. Nothing more exciting than finding little 
 1) Visit [Discord's Developer Portal](https://discord.com/developers/applications) and create a discord account if you don't already have one.
 2) Under **Applications**, create a new application.
 3) Under **Bot**, click on **Reset Token** and save your new token somewhere; you will need it to run the bot.
-4) While still under **Bot**, enable the intent **Message Content**.
+4) While still under **Bot**, enable the intents **Message Content** and **Server Members**.
 5) Under **OAuth2**, enable **Bot**, **Send Messages**, and **Send Messages in Threads**.
 6) Using the link at the bottom of the page, invite the bot to a server you're in.
 7) Run the code wherever you want. I suggest using **VSCode** for pc, and **Termux** for android. Whichever you choose, you will have to `pip install` all the imported libraries at the top of the code.
-8) Enjoy :) You won't need to host the bot 24/7; you can simply run it when you need it and stop it when you're done.
+8) You will find three variables at the top of the page: **MY_ID**: the host's id to give them special permissions, **TOKEN**: the bot's token to run the bot, and **DATABASE**: the name of your database file. Just make a file called whatever.db in the same directory as your bot.
+9) Enjoy :) You won't need to host the bot 24/7; you can simply run it when you need it and stop it when you're done.
 
 **And finally, I hope this helps at least one person out there.**
