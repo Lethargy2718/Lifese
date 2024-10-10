@@ -40,8 +40,8 @@ I have always been an easter egg guy. Nothing more exciting than finding little 
 
 # Future Plans
 
--Allowing users to customize the value of a point.
--Well, that's it for now :p
+- Allowing users to customize the value of a point.
+- Well, that's it for now :p
 
 # How to Host it
 
@@ -54,4 +54,4 @@ I have always been an easter egg guy. Nothing more exciting than finding little 
 7) Run the code wherever you want. I suggest using **VSCode** for pc, and **Termux** for android. Whichever you choose, you will have to `pip install` all the imported libraries at the top of the code.
 8) Enjoy :) You won't need to post the bot 24/7; you can simply run it when you need it and stop it when you're done.
 
-## And finally, I hope this helps at least one person out there. 
+**And finally, I hope this helps at least one person out there.**
