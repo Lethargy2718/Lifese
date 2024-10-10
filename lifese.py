@@ -5,7 +5,9 @@ from discord.ext import commands
 import aiosqlite
 
 MY_ID = ... #put your id here
-TOKEN = ... #put your token here
+TOKEN = ... #put your token here as a string
+DATABASE = ... #put your .db file name here as a string
+
 #intents
 intents = discord.Intents.default()
 intents.members = True
@@ -480,7 +482,7 @@ class SelectViewRemoveOffense(discord.ui.View):
 async def on_ready():
   print(f'{bot.user} has connected to Discord!')
   bot.missions = {}
-  bot.db = await aiosqlite.connect('lifese.db')
+  bot.db = await aiosqlite.connect(DATABASE)
   await init_db()
   try:
     synced = await bot.tree.sync()
