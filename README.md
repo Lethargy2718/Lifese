@@ -25,7 +25,7 @@ Well, there are a few concerns:
 I have added no encryption to this bot, so all your **missions**, **offenses**, and **points** will be visible to the bot's host. This isn't much of an issue as long as you avoid sensitive information, and if you really had to add something private, you can name it using its acronym instead or a name only you would understand.
 
 ### Fairness
-Even if this quantifies your hardwork and turns it into time, it isn't 100% accurate. You are still the one who chooses the points, so you can sometimes feel like you are giving yourself extra points, which will, again, lead to weighing on your conscience. A good way to beat this is by asking people you know how much they thing such a task could be worth. You could even ask ChatGPT! In any case, whenever you feel like you are giving yourself too many points, just give yourself 1 instead.
+Even if this quantifies your hardwork and turns it into time, it isn't 100% accurate. You are still the one who chooses the points, so you can sometimes feel like you are giving yourself extra points, which will, again, lead to weighing on your conscience. A good way to beat this is by asking people you know how much they think a task could be worth. You could even ask ChatGPT! In any case, whenever you feel like you are giving yourself too many points, just give yourself 1 instead.
 
 Just kidding :p
 Don't go too hard on yourself; it's commendable that you're putting in so much effort in the first place!
